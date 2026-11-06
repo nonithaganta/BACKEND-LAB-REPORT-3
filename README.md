@@ -1,8 +1,8 @@
 # Lab 3: REST API, query parameters, validation, debugging
 
-**Name:** Gondela Susmitha  
-**Registration number:** 252U1R6081  
-**Section / Class:** 214-AIML-2B  
+**Name:** G.Nonitha  
+**Registration number:** 252U1R6073
+**Section / Class:** 207-AIML-2B  
 **Course:** Backend Development Fundamentals · Year II Term II
 
 ## Live link
@@ -126,13 +126,28 @@ SELECT COUNT(*) FROM book;
 ## Screenshots to add
 Capture real screenshots from your Postman and SQLite runs and save them in `screenshots/`:
 - `get-books.png`
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c96d1346-aa33-40a9-8bee-486460154506" />
+
 - `search-sort-filter.png`
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cfc33669-0c59-4ea7-8261-841b312bf6f3" />
+
 - `get-book-by-id.png`
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bee199b3-cb9e-4d2d-a986-643aff0f4dcd" />
+
 - `post-valid.png`
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/435c0df7-f6d1-4034-bf65-32411cc176db" />
+
 - `post-invalid.png`
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7250dcc1-7951-4de2-9e9c-26ffbbc10c19" />
+
 - `put-book.png`
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a510a553-69b6-45d1-aab4-e6f28913bd37" />
+
 - `delete-book.png`
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/63d97de3-2a75-41b4-820a-94eba9953b84" />
+
 - `not-found-and-invalid-query.png`
+- 
 - `sqlite-database.png`
 
 Embed each screenshot in this README, for example:
